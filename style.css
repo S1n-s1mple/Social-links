@@ -21,5 +21,17 @@ body{
     center;
     min-height: 100vh;
     background:
-    linear-gradient(130deg,rgba(0, 255, 206),gray)
+    linear-gradient(130deg,rgba(0, 255, 206),darkblue)
 }
+ul{
+    position: relative;
+    transform:skewY(-15deg);
+
+}
+ul li img{}
+ul li{position:relative;
+list-style: none;
+width: 250px;
+background: aqua;
+padding: 15px;
+z-index: var(--i)}
