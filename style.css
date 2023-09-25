@@ -47,10 +47,10 @@ ul li:hover{
 }
 
 ul li:hover::before{
-    background: #009dff;
+    background: #9b0066;
 }
 ul li:hover::after{
-    background: #009dff;
+    background: #9b0066;
 }
 
 ul li::before{
